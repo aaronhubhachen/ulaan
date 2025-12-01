@@ -94,7 +94,7 @@ export default function About() {
       <section className="py-32 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-serif text-4xl md:text-5xl text-white mb-8">
-            "TRUE QUALITY IS A BLEND OF MODERN DESIGN AND AUTHENTIC TRADITION."
+            ""People, when they say 'streetwear,' they miss the central component, which is that it's real people; it's clothes that are worn on the street - Virgil Abloh"
           </h2>
           <p className="text-[#cac1b0]/60 mb-12">
             Redefining quiet luxury for a new generation.
